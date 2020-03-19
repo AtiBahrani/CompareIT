@@ -1,0 +1,1230 @@
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\Sprint6_UserAPI\UserAPI - V2\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\UserAPI - V2 (1)\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\msama\OneDrive\Documents\3-semester\SEP3\SEP3-Switchers\UserAPI - Radu\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ati\Documents\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Radu\Desktop\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V6\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ati\Desktop\SEP3Version7\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+F:\5. SEP 3\Backups\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.exe
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.deps.json
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.json
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.runtimeconfig.dev.json
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\UserAPI.pdb
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csprojAssemblyReference.cache
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.Manifest.cache
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\staticwebassets\UserAPI.StaticWebAssets.xml
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.AssemblyInfo.cs
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.csproj.CopyComplete
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.dll
+C:\Users\Ati\OneDrive - ViaUC\Semester 3\SEP3\hand-in SEP3\CompareIT\UserAPI _V7\UserAPI\obj\Debug\netcoreapp3.0\UserAPI.pdb

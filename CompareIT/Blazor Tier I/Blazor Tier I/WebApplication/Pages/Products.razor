@@ -1,0 +1,109 @@
+﻿@page "/Products"
+
+@using RestSharp
+@using Newtonsoft.Json
+@using WebApplication.Data
+@inject WebApplication.Data.Connection connection
+@inject WebApplication.Data.Wishlist internalWishlist
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    #titlediv {
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #itemdiv {
+        margin-top: 1.5%;
+        height: 160px;
+        width: 90%;
+    }
+
+    #imagediv {
+        float: left;
+        width: 23%;
+        height: 158px;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+    }
+
+    #link {
+        width: 94%;
+    }
+
+    #photo {
+        width: 100%;
+        height: 100%;
+    }
+
+    #itemDescDiv {
+        float: left;
+        width: 70.9%;
+        height: 100%;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+    }
+
+    #adddiv {
+        width: 6%;
+        float: right;
+    }
+
+    .checked {
+        color: orange;
+    }
+</style>
+
+<div id="titlediv">
+    <h2 class="display-4">Your search results:</h2>
+    @if (connection.Final.Count == 0)
+    {
+        <p>There are no items matching your criteria.</p>
+    }
+</div>
+
+<ul class="list-unstyled">
+    @foreach (var item in connection.Final)
+    {
+        <li id="@index">
+            <div id="itemdiv">
+                <a href="@item.URL" target="_blank" id="link">
+                    <div id="imagediv"><img src="~/Images/no-img.png" id="photo" alt="Product image." /></div>
+                    <div id="itemDescDiv">
+                        <p>@item.Title</p>
+                        <br />
+                        <p>
+                            Rating: @if (item.Rating.ToString().Length >= 3) { num = Math.Round(item.Rating / 100); } @for (int i = 0; i < num; i++)
+                            {<span class="fa fa-star checked"></span>}
+                            @for (int i = 0; i < 5 - num; i++)
+                            {<span class="fa fa-star"></span>}
+                        </p>
+                        <br />
+                        <p>Price: @item.Price @item.PriceCurrency</p>
+                    </div>
+                </a>
+                <AuthorizeView>
+                    <Authorized>
+                        <div id="adddiv">
+                            <button id="add" class="btn btn-danger" @onclick="() => AddToWishList(item)">Add to wishlist</button>
+                        </div>
+                    </Authorized>
+                </AuthorizeView>
+            </div>
+        </li>
+        <li hidden>@(index++)</li>
+    }
+</ul>
+
+@code{
+    public int index { get; set; } = 0;
+    public double num { get; set; } = 0;
+
+    private async Task AddToWishList(Item item)
+    {
+        UserWish userWish = new UserWish { ID = internalWishlist.Username, Title = item.Title, URL = item.URL };
+        //here i send the wish to tier 2 for validation
+        await connection.sendWish(userWish);
+
+        internalWishlist.AddWish(userWish);
+    }
+}

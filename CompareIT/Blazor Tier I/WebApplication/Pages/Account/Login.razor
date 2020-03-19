@@ -1,0 +1,73 @@
+﻿@page "/login"
+
+@using System.ComponentModel.DataAnnotations;
+@using WebApplication.Data;
+@inject IJSRuntime jsRuntime
+@inject WebApplication.Data.Connection connection
+@inject Microsoft.AspNetCore.Components.NavigationManager NavigationManager
+@inject WebApplication.Data.Wishlist wishlist
+
+<div class="text-center" style="margin-top:13%;">
+    <h1>Login here:</h1>
+    <br />
+    <EditForm Model="@loginModel" OnValidSubmit="@PerformLogin">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <p>
+                <label style="font-size:24px;">User name:</label>
+                <InputText id="username" placeholder="User name" @bind-Value="loginModel.ID" required />
+            </p>
+        </div>
+
+        <div class="form-group" style="margin-left:1%;">
+            <label style="font-size:24px;">Password: </label>
+            <InputText type="password" id="password" placeholder="Password" @bind-Value="loginModel.Password" required />
+        </div>
+
+        <p>@errormessage</p>
+
+        <button type="submit" style="font-size:20px;" class="btn btn-primary">Login</button>
+        <button style="font-size:20px;" class="btn btn-primary" @onclick="Cancel">Cancel</button>
+    </EditForm>
+
+    <p style="font-size:20px; margin-top:3%;">If you don't have an account already, you can <a href="/Register">register here.</a></p>
+</div>
+
+@code {
+    private string errormessage;
+    private LoginInfo loginModel = new LoginInfo();
+
+    public async Task PerformLogin()
+    {
+        try
+        {
+            await connection.sendLoginRequest(loginModel);
+            wishlist.Username = loginModel.ID;
+            var interop = new Interop(jsRuntime);
+            string antiforgerytoken = await interop.GetElementByName("__RequestVerificationToken");
+
+            // Here I provide fields matching the arguments of my login method, in LoginRequester.cshtml.cs
+            var fields = new { __RequestVerificationToken = antiforgerytoken, username = loginModel.ID, password = loginModel.Password };
+
+            // Here I make a call to the loginRequester.cshtml.cs, the post method, with fields as argument.
+            // it happens through the Interop.cs class
+            await interop.SubmitForm("/loginRequester/", fields);
+        }
+        catch (Exception e)
+        {
+            if (e.Message.Equals("Username is incorrect."))
+            {
+                errormessage = "Invalid Username.";
+            }
+            else
+            {
+            }
+        }
+    }
+    public void Cancel()
+    {
+        NavigationManager.NavigateTo("/");
+    }
+}

@@ -1,0 +1,92 @@
+﻿@page "/Products"
+
+@using RestSharp
+@using Newtonsoft.Json
+@using WebApplication.Data
+@inject WebApplication.Data.Connection connection
+@inject WebApplication.Data.Wishlist internalWishlist
+
+<style>
+    #titlediv {
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+
+    #itemdiv {
+        margin-top: 1.5%;
+        height: 160px;
+        width: 90%;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    #imagediv {
+        float: left;
+        width: 23%;
+        height: 158px;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+    }
+
+    #link{
+        width:100%;
+    }
+    #photo {
+        width: 100%;
+        height: 100%;
+    }
+
+    #itemDescDiv {
+        float: left;
+        width: 70.9%;
+        height: 100%;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+    }
+
+    #adddiv {
+        width: 6%;
+        float: right;
+    }
+</style>
+
+<div id="titlediv">
+    <h2 class="display-4">Your search results:</h2>
+</div>
+
+<ul class="list-unstyled">
+    @foreach (var item in connection.Final)
+    {
+        <li id="@index">
+            <div id="itemdiv">
+                <a href="@item.URL" target="_blank" id="link">
+                    <div id="imagediv"><img src="~/Images/no-img.png" id="photo" alt="Product image." /></div>
+                    <div id="itemDescDiv">
+                        <p>@item.Title</p>
+                        <br />
+                        <p>Rating of the product: @(Math.Round(item.Rating))</p>
+                        <br />
+                        <p>Price: @item.Price @item.PriceCurrency</p>
+                    </div>
+                </a>
+                <div id="adddiv">
+                    <button id="add" class="btn btn-danger" @onclick="() => AddToWishList(item)">Add to wishlist</button>
+                </div>
+            </div>
+        </li>
+        <li hidden>@(index++)</li>
+    }
+</ul>
+
+@code{
+    public int index { get; set; } = 0;
+
+    private async Task AddToWishList(Item item)
+    {
+        UserWish userWish = new UserWish { ID = internalWishlist.Username, Title = item.Title, URL = item.URL };
+        //here i send the wish to tier 2 for validation
+        await connection.sendWish(userWish);
+
+        internalWishlist.AddWish(userWish);
+    }
+}
